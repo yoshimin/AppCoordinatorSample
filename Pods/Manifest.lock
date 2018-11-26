@@ -1,0 +1,24 @@
+PODS:
+  - DefaultsKit (0.0.9)
+  - R.swift (5.0.0.alpha.2):
+    - R.swift.Library (~> 5.0.0.alpha.2)
+  - R.swift.Library (5.0.0.alpha.2)
+
+DEPENDENCIES:
+  - DefaultsKit
+  - R.swift (= 5.0.0.alpha.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DefaultsKit
+    - R.swift
+    - R.swift.Library
+
+SPEC CHECKSUMS:
+  DefaultsKit: e47d11c54a53c66f9e5c65a1992dead90bc7144f
+  R.swift: 31fa1bd537fa81307815cc622122f33331f32174
+  R.swift.Library: 3c21b823839bf5a6769dc7f96cb44479dab51b1b
+
+PODFILE CHECKSUM: 474529da490e785b7fcd96b047abef161c468073
+
+COCOAPODS: 1.5.3
